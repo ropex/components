@@ -41,6 +41,7 @@
   "requiredMDCVersion": "^4.0.0-alpha.0",
   "dependencies": {
     "@angular/animations": "^8.2.2",
+    "@angular/cli": "^8.2.2",
     "@angular/common": "^8.2.2",
     "@angular/compiler": "^8.2.2",
     "@angular/core": "^8.2.2",
